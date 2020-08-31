@@ -1,0 +1,9 @@
+.dnd5e.sheet.actor.character .inventory .item-controls .item-toggle.active,
+.dnd5e.sheet.actor.character .spellbook .item-controls .item-toggle.active,
+.dnd5e.sheet.actor.vehicle .features .item-controls .item-toggle.active {
+  color: #0064b1;
+}
+.dnd5e.sheet.actor.character .inventory .item-controls .item-toggle.fixed,
+.dnd5e.sheet.actor.character .spellbook .item-controls .item-toggle.fixed {
+  color: #ff6400;
+}
