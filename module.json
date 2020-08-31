@@ -1,15 +1,16 @@
 {
-	"name": "5edifferentpreparedandequippedcolors",
-	"title": "5E Different Equipped And Prepared Colors",
+	"name": "differentpreparedcolors",
+	"title": "Different Prepared Colors",
 	"description": "Changes colors of icons for prepared spells and equipped items to be more easily distinguised at a glance.",
-	"version": "0.0.5",
+	"version": "1.0",
 	"author": "Parker (sparkcities#2000)",
 	"minimumCoreVersion": "0.6.0",
-	"compatibleCoreVersion": "0.6.5",
+	"compatibleCoreVersion": "0.6.6",
 	"systems": ["dnd5e"],
 	"scripts": [],
 	"styles": ["differentcolors.css"],
-	"url": "https://github.com/sparkcity/foundryvtt/tree/master/5edifferentpreparedandequippedcolors",
-	"manifest": "https://raw.githubusercontent.com/sparkcity/foundryvtt/master/5edifferentpreparedandequippedcolors/module.json",
-	"download": "https://github.com/sparkcity/foundryvtt/raw/master/5edifferentpreparedandequippedcolors/differentcolors.zip"
+	"url": "https://github.com/sparkcity/fvtt-colors",
+	"manifest": "https://raw.githubusercontent.com/sparkcity/fvtt-colors/master/module.json",
+	"download": "https://github.com/sparkcity/fvtt-colors/releases/download/v1.0/differentpreparedcolors.zip",
+	"readme": "https://github.com/sparkcity/fvtt-colors/blob/master/README.md"
 }
