@@ -3,4 +3,4 @@ The purpose of this small module is change the default colors of the icon indica
 
 ## Screenshots
 
-![Image](https://github.com/sparkcity/foundryvtt/blob/master/screenshots/scnsht5edifferentcolors.png?raw=true "5e Different Prepared and Equipped Colors")
+![Image](https://github.com/sparkcity/fvttprojects/blob/master/screenshots/scnsht5edifferentcolors.png?raw=true "5e Different Prepared and Equipped Colors")
